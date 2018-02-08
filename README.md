@@ -4,3 +4,5 @@
 ##  Prediction with Time Series
 ### The result shown as follows:
 
+![](pictures/time%20series%20prediction%20result.PNG)
+
